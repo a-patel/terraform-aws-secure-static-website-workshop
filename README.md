@@ -2,6 +2,11 @@
 
 > Deploying a Static Website to AWS using Amazon S3, CloudFront, Route53, ACM, and WAF.
 
+Read more about DevOps technology on [DevOps Mojo](https://medium.com/devops-mojo)
+
+[Awesome Cloud](https://medium.com/awesome-cloud) - AWS blogs! A must-read publication for aspiring AWS Architects, Developers & DevOps enthusiasts!
+
+
 
 ## Overview
 
